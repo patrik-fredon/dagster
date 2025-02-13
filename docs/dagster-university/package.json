@@ -18,7 +18,7 @@
     "fast-glob": "^3.2.5",
     "next": "^14.2.10",
     "prismjs": "latest",
-    "react": "latest",
+    "react": "18.3.1",
     "react-dom": "latest",
     "remark": "^13.0.0",
     "remark-extract-frontmatter": "^3.1.0",
