@@ -1,6 +1,6 @@
 # this Dockerfile can be used for ECS Pipes development
 
-FROM python:3.11-slim
+FROM python:3.13.2-slim
 
 RUN --mount=type=cache,target=/root/.cache/pip python -m pip install boto3
 
