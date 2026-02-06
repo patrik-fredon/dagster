@@ -1,5 +1,5 @@
 # Dagster
-FROM python:3.13.4-slim as dagster
+FROM python:3.14.3-slim as dagster
 
 COPY ./python_modules/ /tmp/python_modules/
 
