@@ -38,7 +38,7 @@
     "codemirror": "^5.65.2",
     "deepmerge": "^4.2.2",
     "react-dates": "^21.8.0",
-    "yaml": "2.4.0"
+    "yaml": "2.8.3"
   },
   "devDependencies": {
     "@babel/core": "^7.21.8",
@@ -94,10 +94,10 @@
     "react-docgen-typescript-plugin": "^1.0.8",
     "react-dom": "^18.3.1",
     "regenerator-runtime": "^0.13.9",
-    "rollup": "^2.79.2",
+    "rollup": "^4.60.0",
     "rollup-plugin-polyfill-node": "^0.8.0",
     "rollup-plugin-styles": "^4.0.0",
-    "storybook": "^8.2.7",
+    "storybook": "^10.3.3",
     "typescript": "5.5.4",
     "webpack": "^5.94.0"
   },
